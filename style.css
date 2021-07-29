@@ -1,0 +1,41 @@
+/*.nahid{
+    height: 200px;
+    background-color: darkgoldenrod;
+}*/
+body{
+    font-family: 'Montserrat', sans-serif !important;
+}
+.alg{
+    height: 50px;
+}
+
+
+
+.icon{color: crimson; margin-right: 8px;}
+
+.btn-outline-success {
+    border-color: crimson !important;
+}
+button:hover{
+    background-color: crimson !important;
+
+}
+.nav-alg a{
+    margin-right: 10px !important;
+}
+
+.bg-footer{
+    background-color: rgb(51, 62, 79) !important;
+    color: rgb(156, 169, 190) !important;
+    
+}
+
+.f-c{
+    padding: 100px 0;
+}
+
+footer{
+    background-color: rgb(51, 62, 79) !important;
+    color: rgb(156, 169, 190) !important;
+    padding: 15px 0;
+}
